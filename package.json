@@ -1,0 +1,12 @@
+{
+  "name": "env-status",
+  "version": "0.0.1",
+  "description": "used for git-flow in teamwork",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "steinwei",
+  "license": "MIT"
+}
